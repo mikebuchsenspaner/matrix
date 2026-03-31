@@ -1,0 +1,25 @@
+CSV usado: data\market_data.csv
+Janela usada: test_only
+Horizon: 5
+Min return threshold do label: 0.003
+Thresholds testados: [0.3, 0.35, 0.4, 0.45, 0.5]
+Fee rate: 0.001
+Max hold bars: 5
+Stop loss: -0.02
+Take profit: 0.04
+Exit gap: 0.1
+Regime filter ativo: True
+Regime filter: regime_entry_filter
+
+Best threshold: 0.30
+Strategy total return: 7.3183%
+Buy and hold return: 18.2039%
+Alpha vs buy and hold: -10.8856%
+Max drawdown: -0.4645%
+Sharpe (aprox.): 1.4850
+Exposure: 1.8957%
+Total trades: 1
+Winning trades: 1
+Losing trades: 0
+Win rate: 100.0000%
+Average trade return: 7.3139%

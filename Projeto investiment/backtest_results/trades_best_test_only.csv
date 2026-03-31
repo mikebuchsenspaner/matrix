@@ -1,0 +1,2 @@
+threshold,entry_index,exit_index,entry_price,exit_price,bars_held,entry_probability,exit_probability,gross_return,net_return,exit_reason,entry_time,exit_time
+0.3,83,87,237.6969451904297,255.5928192138672,4,0.4389912539860551,0.3958961604749135,0.07528861596896119,0.07313911402563922,take_profit,2025-09-16,2025-09-22

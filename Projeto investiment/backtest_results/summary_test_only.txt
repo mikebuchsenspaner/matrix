@@ -1,0 +1,31 @@
+BACKTEST SUMMARY
+================
+CSV usado: data\market_data.csv
+Modelo: models\trade_model.pkl
+Janela: test_only
+Linhas no backtest: 247
+Horizon do label: 3
+Min return do label: 0.002
+Probability threshold: 0.55
+Fee rate por troca de posição: 0.001
+
+Strategy total return: 1.9268%
+Buy and hold return: 13.4451%
+Alpha vs buy and hold: -11.5183%
+Max drawdown: -15.2350%
+Sharpe (aprox.): 0.1926
+Exposure: 12.5506%
+
+Total trades: 19
+Closed trades: 19
+Open trades: 0
+Winning trades: 11
+Losing trades: 8
+Win rate: 57.8947%
+Average trade return: 0.1272%
+
+Signals NO BUY: 216
+Signals BUY: 31
+
+Arquivo detalhado salvo em: backtest_results\backtest_test_only.csv
+Arquivo de trades salvo em: backtest_results\trades_test_only.csv
